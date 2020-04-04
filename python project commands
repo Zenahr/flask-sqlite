@@ -1,0 +1,1 @@
+pip install package && pip freeze > requirements.txt
